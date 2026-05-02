@@ -59,7 +59,7 @@ Log(stack, level, package, message)
 
 ### Authentication (Token Generation)
 Shows successful generation of access token.
-![Auth](screenshots/auth.png)
+![Auth](screenshots/auth2.png)
 
 ---
 
